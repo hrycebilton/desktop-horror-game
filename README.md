@@ -7,6 +7,7 @@
 >I want to emphasize that these projects have not been actively maintained (last worked on in 2019), and as a result, the quality of their assets may not meet current standards. Therefore, I recommend thoroughly verifying their quality before considering their use.
 
 Project Time Cycle: September, 2019 - November, 2019
+
 Latest Version Of Unity Used: 2021.3.22f1
 
 ## Description
@@ -16,6 +17,10 @@ This repository is an **archival** upload of a 2D desktop horror game. It was or
 ## Usage
 
 Because I am unsure of the legality of sharing Windows 95 along with other assets they have been stripped away, so this project will only contain assets that I have made or have worked on or have the rights to distribute. The third party assets that I do have rights to distribute will be credited below.
+
+## Images
+![Game dev image](https://i.imgur.com/Hfx1od1.png)
+![Game dev image](https://i.imgur.com/neQswuO.png)
 
 ## Video
 Brief video covering the game's functionality as it was can be seen [here](https://www.youtube.com/watch?v=5zDVQ6aeKpQ).
