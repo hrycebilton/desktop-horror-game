@@ -18,9 +18,8 @@ This repository is an **archival** upload of a 2D desktop horror game. It was or
 Because I am unsure of the legality of sharing Windows 95 along with other assets they have been stripped away, so this project will only contain assets that I have made or have worked on or have the rights to distribute. The third party assets that I do have rights to distribute will be credited below.
 
 ## Video
+Brief video covering the game's functionality as it was can be seen [here](https://www.youtube.com/watch?v=5zDVQ6aeKpQ).
 
-Brief video covering the game's functionality as it was:
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=5zDVQ6aeKpQ" frameborder="0" allowfullscreen></iframe>
 
 ## Credits
 
