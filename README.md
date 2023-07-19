@@ -22,4 +22,14 @@ Because I am unsure of the legality of sharing Windows 95 along with other asset
 Brief video covering the game's functionality as it was:
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=5zDVQ6aeKpQ" frameborder="0" allowfullscreen></iframe>
 
+## Credits
 
+* AdamPlaneReflection by keijiro
+* Desk Lamp Low Poly
+* EB Garamon by Georg Duffner
+* keyboard5.wav by jim-ph
+* Office desk by ms_Butor
+* Perfect DOS VGA 437 by Zeh Fernando
+* Retro Computer Setup (FREE) by Brandon Westlake
+* VCR OSD Mono by Riciery Leal
+* Volumetric Lights by Michal Skalsky
