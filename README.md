@@ -12,7 +12,7 @@ Latest Version Of Unity Used: 2021.3.22f1
 
 ## Description
 
-This repository is an **archival** upload of a 2D desktop horror game. It was originally developed as a personal project  and is provided here solely for **archival and portfolio purposes**, showcasing past work. Inspired by retro desktop environments, the game planned to offer a scary experience as you navigate a 90's desktop containing dark secrets. This project is no longer actively maintained.
+This repository is an **archival** upload of a 2D desktop horror game. It was originally developed as a personal project  and is provided here solely for **archival and portfolio purposes**, showcasing past work. Inspired by the era of Windows 95 and 98, the game planned to offer a scary experience as you navigate a 90's themed desktop containing dark hidden secrets. This project is no longer actively maintained.
 
 ## Usage
 
